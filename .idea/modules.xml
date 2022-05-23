@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gil2.iml" filepath="$PROJECT_DIR$/.idea/Gil2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gil2/demo.iml" filepath="$PROJECT_DIR$/Gil2/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend/spring-boot-web-jsp.iml" filepath="$PROJECT_DIR$/frontend/frontend/spring-boot-web-jsp.iml" />
+    </modules>
+  </component>
+</project>
