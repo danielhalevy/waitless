@@ -295,3 +295,10 @@ I
 Gil2/pom.xml,d\f\df6d85c524cf70bcbab10af21a8a9b2ea41c4989
 v
 Ffrontend/frontend/src/main/java/com/frontend/frontend/models/User.java,0\2\027cc7898415f90bff0a4e753a2dc05018403ed3
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+d
+4Gil2/src/main/java/com/gratitude/gil/model/Meal.java,b\1\b1a50f4481a1322f8e2e0e5f64c4f2f74e86607c
+e
+5Gil2/src/main/java/com/gratitude/gil/model/Order.java,9\3\9381f33d60773896cd1e8a3f2a72a291373e987f
